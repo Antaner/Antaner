@@ -7,7 +7,7 @@
   - 🎶 **Music** - Besides the Piano/Synth I'm part of a Rock Band and also like to use FL Studio to get some solo Tunes out there - Music Taste through the bank
 
 ### Currently working on
-  - 🟦 **Playrealm's New Dawn** – Minecraft MMORPG Server (Collab with @Mentalri)
+  - 🟦 **Playrealm's New Dawn** – Minecraft MMORPG Server | Collab with [@Mentalri](https://github.com/Mentalri)
   - 🔧 **MineBattle** - Custom Game Mode Plugin
 
 ### Want to collab or have a question?
