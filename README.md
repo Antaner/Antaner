@@ -11,7 +11,13 @@
   - 🪵 **MineBattle** - Custom Game Mode Plugin
   - 🔧 **Proof-of-concept** - Looking into Custom UI Displays via a cimbination of Unicodes, Spigot API and Texturepack. Sort of v2.0 of Playrealm's Custom Hotbar
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antaner&layout=compact&theme=dark&hide_border=true)
+### Tech Stack
+- **Languages:** Java, Python (basic)
+- **Backend:** Java, MySQL
+- **Web:** HTML, CSS, Elementor
+- **Tools:** Git, Linux basics
+- **Creative:** Photoshop, Premiere Pro, Aseprite, Cinema 4d
+- **Programming with** IntelliJ IDEA, Visual Studio Code
 
 ### Want to collab or have a question?
   - Hit me up on Discord via the Link on the Left
