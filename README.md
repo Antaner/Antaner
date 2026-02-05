@@ -4,7 +4,7 @@
   - 📖 **Learn to improve** - Besides the "you need to learn x to get to y" there is a whole world of your own interests out there. Learning about those feels like satiating the Soul
   - 🖼️ **Creating Art** - Handdrawn, Edited or Pixelart - creating something from thought is something i'll never get tired of (maybe taking a break after x retries of the same piece 💀)
   - 🎮 **Story Game Enjoyer** - At the end of the day, enjoying and exploring a world brilliant minds came up with, gives me a sense of pride of the Field i'm working in
-  - 🎶 **Music** - Besides the Piano/Synth I'm part of a Rock Band and also like to use FL Studio to get some solo Tunes out there - Music Taste through the bank
+  - 🎶 **Music** - Besides playing Piano/Synth I'm part of a Rock Band and also like to use FL Studio to get some solo Tunes out there - Music Taste through the bank
 
 ### Currently working on
   - 🟦 **Playrealm's New Dawn** – Minecraft MMORPG Server | Collab with [@Mentalri](https://github.com/Mentalri)
