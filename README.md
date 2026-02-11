@@ -1,5 +1,5 @@
 ## About Me
-  - 👔 **Coding** - Started with Java in 2019, moved on to python, HTML/CSS and further Web dev. Self-tought and always trying my best to improve. **Never believe you know it all**
+  - 👔 **Coding** - Started with Java in 2019, some experience in python, HTML/CSS and further Web dev. Self-tought and always trying my best to improve. **Never believe you know it all**
   - 🔰 **Innovation is Key** - I have a hard time believing somthing is "impossible", so even if it takes a month to research and create that feature, and you dont want to do it - i'll do it
   - 📖 **Learn to improve** - Besides the "you need to learn x to get to y" there is a whole world of your own interests out there. Learning about those feels like satiating the Soul
   - 🖼️ **Creating Art** - Handdrawn, Edited or Pixelart - creating something from thought is something i'll never get tired of (maybe taking a break after x retries of the same piece 💀)
