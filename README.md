@@ -11,6 +11,12 @@
 - **Creative:** Photoshop, Premiere Pro, Aseprite, Cinema 4d
 - **Programming with:** IntelliJ IDEA, Visual Studio Code
 
+## 👨‍💻 About Me
+
+- 👔 Self-taught Java developer with a strong focus on backend systems  
+- 🎮 Built and maintained a complex multiplayer game server (Playrealm) over multiple years  
+- 🖼️ Interested in game systems, custom UI, and creating immersive player experiences
+<!--
 ## About Me
   - 👔 **Coding** - Started with Java in 2019, some experience in python, HTML/CSS and further Web dev. Self-tought and always trying my best to improve. **Never believe you know it all**
   - 🔰 **Innovation is Key** - I have a hard time believing somthing is "impossible", so even if it takes a month to research and create that feature, and you dont want to do it - i'll do it
@@ -18,6 +24,7 @@
   - 🖼️ **Creating Art** - Handdrawn, Edited or Pixelart - creating something from thought is something i'll never get tired of (maybe taking a break after x retries of the same piece 💀)
   - 🎮 **Story Game Enjoyer** - At the end of the day, playing in - and exploring a world brilliant minds came up with, gives me a sense of pride of the Field i'm working in
   - 🎶 **Music** - Besides playing Piano/Synth I'm part of a Rock Band and also like to use FL Studio to get some solo Tunes out there - Music Taste's through the bank
+-->
 
 ## Want to collab or have a question?
   - Hit me up on Discord via the Link on the Left
