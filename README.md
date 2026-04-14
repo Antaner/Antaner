@@ -1,3 +1,16 @@
+## Currently working on
+  - 🟦 **Playrealm's New Dawn** – Minecraft MMORPG Server | Collab with [@Mentalri](https://github.com/Mentalri)
+  - 🪵 **MineBattle** - Custom Game Mode Plugin
+  - 🔧 **Proof-of-concept** - Looking into Custom UI Displays via a cimbination of Unicodes, Spigot API and Texturepack. Sort of v2.0 of Playrealm's Custom Hotbar
+
+## Tech Stuff
+- **Languages:** Java, Python (basic)
+- **Backend:** Java, MySQL
+- **Web:** HTML, CSS, Elementor
+- **Tools:** Git, Linux basics
+- **Creative:** Photoshop, Premiere Pro, Aseprite, Cinema 4d
+- **Programming with:** IntelliJ IDEA, Visual Studio Code
+
 ## About Me
   - 👔 **Coding** - Started with Java in 2019, some experience in python, HTML/CSS and further Web dev. Self-tought and always trying my best to improve. **Never believe you know it all**
   - 🔰 **Innovation is Key** - I have a hard time believing somthing is "impossible", so even if it takes a month to research and create that feature, and you dont want to do it - i'll do it
@@ -6,20 +19,7 @@
   - 🎮 **Story Game Enjoyer** - At the end of the day, playing in - and exploring a world brilliant minds came up with, gives me a sense of pride of the Field i'm working in
   - 🎶 **Music** - Besides playing Piano/Synth I'm part of a Rock Band and also like to use FL Studio to get some solo Tunes out there - Music Taste's through the bank
 
-### Currently working on
-  - 🟦 **Playrealm's New Dawn** – Minecraft MMORPG Server | Collab with [@Mentalri](https://github.com/Mentalri)
-  - 🪵 **MineBattle** - Custom Game Mode Plugin
-  - 🔧 **Proof-of-concept** - Looking into Custom UI Displays via a cimbination of Unicodes, Spigot API and Texturepack. Sort of v2.0 of Playrealm's Custom Hotbar
-
-### Tech Stuff
-- **Languages:** Java, Python (basic)
-- **Backend:** Java, MySQL
-- **Web:** HTML, CSS, Elementor
-- **Tools:** Git, Linux basics
-- **Creative:** Photoshop, Premiere Pro, Aseprite, Cinema 4d
-- **Programming with:** IntelliJ IDEA, Visual Studio Code
-
-### Want to collab or have a question?
+## Want to collab or have a question?
   - Hit me up on Discord via the Link on the Left
 
 <!--
