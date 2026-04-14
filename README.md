@@ -1,5 +1,5 @@
 ## Currently working on
-  - ⚡ **Playrealm's New Dawn** – 3 Year - Highly Complex Minecraft MMORPG Server | Collab with [@Mentalri](https://github.com/Mentalri)
+  - ⚡ **Playrealm's New Dawn** – 3+ year project: Multiplayer MMORPG server with custom gameplay systems, UI mechanics and backend logic | Collab with [@Mentalri](https://github.com/Mentalri)
   - 🌱 **MineBattle** - Custom Game Mode Plugin
   - 🔧 **Proof-of-concept** - Looking into Custom UI Displays via a cimbination of Unicodes, Spigot API and Texturepack. Sort of v2.0 of Playrealm's Custom Hotbar
 
